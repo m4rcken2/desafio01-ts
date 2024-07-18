@@ -8,3 +8,4 @@ export class PeopleAccount extends DioAccount {
     this.doc_id = doc_id
   }
 }
+
